@@ -1,0 +1,39 @@
+.iconButton{
+    transition: all 0.2s ;
+}
+.iconButton:hover{
+background-color: rgb(192, 190, 190) !important;
+box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+.todocard{
+    transition: all 0.2s ;
+}
+.todocard:hover{
+    padding-bottom: 13px;
+    padding-top: 13px;
+    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+
+@font-face{
+    font-family: Fustat9;
+    src: url("/public/fonts/Almarai-Regular.ttf");
+    font-weight: 900;
+}
+@font-face{
+    font-family: Fustat2;
+    src: url("/public/fonts/Almarai-Regular.ttf");
+    font-weight: 200;
+}
+@font-face{
+    font-family: Fustatn;
+    src: uurl("/public/fonts/Almarai-Regular.ttf");
+    font-weight: normal;
+}
+@font-face{
+    font-family: Fustatb;
+    src: url("/public/fonts/Almarai-Regular.ttf");
+    font-weight: bold;
+}
+
